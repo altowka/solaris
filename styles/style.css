@@ -81,6 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-photo {
   background: url("../img/header.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
